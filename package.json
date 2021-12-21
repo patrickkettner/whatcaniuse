@@ -1,0 +1,16 @@
+{
+  "name": "whatcaniuse",
+  "version": "0.0.1",
+  "description": "Get a list of features that has a minimum global usage, based on caniuse-db",
+  "main": "index.js",
+  "module": "main.js",
+  "scripts": { },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@stdlib/assert-is-regexp": "^0.0.6",
+    "@stdlib/assert-is-regexp-string": "^0.0.7",
+    "caniuse-db": "^1.0.30001300"
+  }
+}
